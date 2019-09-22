@@ -18,3 +18,13 @@ public class FindNthFiboNum {
 			return fibo(n-2)+fibo(n-1);
 		}
 }
+
+/*
+
+input 
+8
+output
+21
+
+
+*/

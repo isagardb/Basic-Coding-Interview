@@ -27,3 +27,25 @@ public class SwapTwoNum {
 	}
 
 }
+
+
+/* 
+input 
+
+6
+7
+
+output
+
+method 1
+
+7
+6
+
+method 2
+
+7
+6
+
+
+*/
