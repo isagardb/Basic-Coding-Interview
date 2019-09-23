@@ -1,4 +1,4 @@
-package Palindrome;
+package Reverse;
 import java.util.*;
 public class Reverse_Individual_Word {
 		public static void main(String[]  args) {

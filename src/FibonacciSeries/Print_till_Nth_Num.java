@@ -1,6 +1,6 @@
 package FibonacciSeries;
 import java.util.*;
-public class NthNum {
+public class Print_till_Nth_Num {
 
 	public static void main(String ags[]) {
 		Scanner sc =  new Scanner(System.in);

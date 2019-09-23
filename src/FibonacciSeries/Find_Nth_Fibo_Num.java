@@ -1,6 +1,6 @@
 package FibonacciSeries;
 import java.util.*;
-public class FindNthFiboNum {
+public class Find_Nth_Fibo_Num {
 		public static void main(String[] args) {
 			Scanner sc = new Scanner(System.in);
 			int n = sc.nextInt();
