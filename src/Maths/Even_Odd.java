@@ -1,3 +1,4 @@
+package Maths;
 import java.util.*;
 public class Even_Odd {
 

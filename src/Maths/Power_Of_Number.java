@@ -1,3 +1,4 @@
+package Maths;
 import java.util.*;
 public class Power_Of_Number {
 

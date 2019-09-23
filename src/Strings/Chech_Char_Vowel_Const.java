@@ -1,3 +1,4 @@
+package Strings;
 import java.util.*;
 public class Chech_Char_Vowel_Const {
 
