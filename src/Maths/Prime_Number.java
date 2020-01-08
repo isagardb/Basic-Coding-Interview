@@ -39,7 +39,7 @@ input: 12
 output: No Prime
 
 input: 11
-output: Prime 
+output: Prime  
 
 
 */
