@@ -5,16 +5,16 @@ public class Reverse_Individual_Word {
 			Scanner sc = new Scanner(System.in);
 			String s = sc.nextLine();
 			
-			String word[] = s.split(" ");
+			String[] word = s.split(" ");
 			
-			String res = "";
+			StringBuilder res = new StringBuilder();
  
 			for(String k : word) {
 				StringBuilder sb = new StringBuilder(k);
 				sb.reverse();
-				res = res + sb+" ";
+				res.append(sb).append(" ");
 			}
-			System.out.print(res.trim());
+			System.out.print(res.toString().trim());
 		}
 }
 
